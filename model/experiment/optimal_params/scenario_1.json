@@ -1,0 +1,65 @@
+{
+  "interval": {
+    "reg": {
+      "num_dense_layers": 1,
+      "num_input_nodes": 113,
+      "num_dense_nodes": 17,
+      "ratio_dropout": 0.27169316072740096
+    },
+    "trans": {}
+  },
+  "interval_monotonic": {
+    "reg": {
+      "num_dense_layers": 1,
+      "num_input_nodes": 149,
+      "num_dense_nodes": 115,
+      "ratio_dropout": 0.3758888400382476,
+      "penalty_weight": 60.614301366648384
+    },
+    "trans": {}
+  },
+  "mean": {
+    "reg": {
+      "num_dense_layers": 1,
+      "num_input_nodes": 134,
+      "num_dense_nodes": 16,
+      "ratio_dropout": 0.20752724266687417
+    },
+    "trans": {}
+  },
+  "mean_monotonic": {
+    "reg": {
+      "num_dense_layers": 1,
+      "num_input_nodes": 260,
+      "num_dense_nodes": 60,
+      "ratio_dropout": 0.2842294079189817,
+      "penalty_weight": 100.0
+    },
+    "trans": {}
+  },
+  "sliding_window_lehmer": {
+    "reg": {
+      "num_dense_layers": 1,
+      "num_input_nodes": 84,
+      "num_dense_nodes": 11,
+      "ratio_dropout": 0.09777356494674065
+    },
+    "trans": {
+      "sliding_window_size_0": 11,
+      "p_lehmer_0": 1.0671058686816437
+    }
+  },
+  "sliding_window_lehmer_monotonic": {
+    "reg": {
+      "num_dense_layers": 1,
+      "num_input_nodes": 120,
+      "num_dense_nodes": 139,
+      "ratio_dropout": 0.2293792539456638,
+      "penalty_weight": 100.0
+    },
+    "trans": {
+      "sliding_window_size_0": 20,
+      "p_lehmer_0": 1.0918735149888867
+    }
+  }
+}

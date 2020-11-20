@@ -1,0 +1,7 @@
+numpy~=1.19.1
+pandas~=1.1.1
+scikit-learn~=0.23.2
+scikit-optimize~=0.8.1
+tensorflow~=2.2.0
+joblib~=0.16.0
+tqdm~=4.48.2
