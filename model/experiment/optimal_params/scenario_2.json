@@ -36,30 +36,5 @@
       "penalty_weight": 100.0
     },
     "trans": {}
-  },
-  "sliding_window_lehmer": {
-    "reg": {
-      "num_dense_layers": 1,
-      "num_input_nodes": 265,
-      "num_dense_nodes": 5,
-      "ratio_dropout": 0.0
-    },
-    "trans": {
-      "sliding_window_size_0": 15,
-      "p_lehmer_0": 1.243000582893849
-    }
-  },
-  "sliding_window_lehmer_monotonic": {
-    "reg": {
-      "num_dense_layers": 1,
-      "num_input_nodes": 205,
-      "num_dense_nodes": 200,
-      "ratio_dropout": 0.364795786852644,
-      "penalty_weight": 93.24829867634209
-    },
-    "trans": {
-      "sliding_window_size_0": 15,
-      "p_lehmer_0": 1.1423478571981782
-    }
   }
 }
