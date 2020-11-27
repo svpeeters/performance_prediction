@@ -9,9 +9,9 @@ The folder model contains the source code of the models and the experiments. The
 |       experiment             |    experiment and hpyerparameter tuning source code         |
 |          callbacks.py          |    TensorFlow2 callbacks used in the models        |
 |          dnn.py          |    TensorFlow2 regression models        |
-|          helper.py          |    helper method and classes        |
+|          helper.py          |    helper methods and classes        |
 |          loss_functions.py          |    implementation of generalized loss and monotonic battch penalty term  |
-|          transformer.py          |  mutliset transformer   |
+|          transformer.py          |  mutliset transformers   |
 
 # Preliminary actions 
 Before the hyperparameter tuner and the experiments can be executed the scenario1.zip and scenario2.zip in the folder `model/data/case_study` must be decompressed.
