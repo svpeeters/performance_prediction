@@ -10,7 +10,7 @@ The folder model contains the source code of the models and the experiments. The
 |          callbacks.py          |    TensorFlow2 callbacks used in the models        |
 |          dnn.py          |    TensorFlow2 regression models        |
 |          helper.py          |    helper methods and classes        |
-|          loss_functions.py          |    implementation of generalized loss and monotonic battch penalty term  |
+|          loss_functions.py          |    implementation of generalized loss and monotonic penalty term  |
 |          transformer.py          |  mutliset transformers   |
 
 # Preliminary actions 
