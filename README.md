@@ -1,5 +1,5 @@
-# Performance prediction using generalized loss: A case study for video games
-This repository contains the source code and the dataset used in the paper "Performance prediction using generalized loss: A case study for video games".
+# Performance prediction for hardware-softwareconfigurations: A case study for video games
+This repository contains the source code and the dataset used in the paper "Performance prediction for hardware-softwareconfigurations: A case study for video games".
 # Contents
 The folder model contains the source code of the models and the experiments. The folders and files have the following contents:
 
