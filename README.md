@@ -1,5 +1,6 @@
 # Performance prediction for hardware-softwareconfigurations: A case study for video games
-This repository contains the source code and the dataset used in the paper "Performance prediction for hardware-softwareconfigurations: A case study for video games".
+This repository contains the source code and the dataset used in the following paper: Peeters, Sven, Vitalik Melnikov, and Eyke Hüllermeier. Performance Prediction for Hardware–Software Configurations: A Case Study for Video Games. Advances in Intelligent Data Analysis XIX: 19th International Symposium on Intelligent Data Analysis, IDA 2021, Porto, Portugal, April 26–28, 2021, Proceedings. Springer Nature.
+
 # Contents
 The folder model contains the source code of the models and the experiments. The folders and files have the following contents:
 
